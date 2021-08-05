@@ -22,9 +22,9 @@
     "url": "http://kerwa.ucr.ac.cr",
     "icon": "https://favicons.githubusercontent.com/kerwa.ucr.ac.cr",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 3125,
     "timeMonth": 2855,
     "timeYear": 2855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-05": 0
+    }
   },
   {
     "name": "Portal de Revistas",
@@ -41,14 +43,14 @@
     "icon": "https://favicons.githubusercontent.com/revistas.ucr.ac.cr",
     "slug": "portal-de-revistas",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1487,
     "timeDay": 1955,
-    "timeWeek": 1569,
+    "timeWeek": 1627,
     "timeMonth": 1487,
     "timeYear": 1487,
     "dailyMinutesDown": {
