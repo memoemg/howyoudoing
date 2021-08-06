@@ -6,7 +6,7 @@ sites:
   - name: Kimuk
     url: https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields
   - name: Kérwá
-    url: http://kerwa.ucr.ac.cr
+    url: https://kerwa.ucr.ac.cr
   - name: Portal de Revistas
     url: https://revistas.ucr.ac.cr
   - name: UCRIndex
