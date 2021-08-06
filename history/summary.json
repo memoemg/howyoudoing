@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1936,
-    "timeDay": 1932,
-    "timeWeek": 1949,
-    "timeMonth": 1936,
-    "timeYear": 1936,
+    "time": 1960,
+    "timeDay": 2230,
+    "timeWeek": 2009,
+    "timeMonth": 1960,
+    "timeYear": 1960,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/kerwa.ucr.ac.cr",
     "slug": "kerwa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.90%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 2855,
-    "timeDay": 2710,
-    "timeWeek": 3125,
+    "timeDay": 0,
+    "timeWeek": 3195,
     "timeMonth": 2855,
     "timeYear": 2855,
     "dailyMinutesDown": {
-      "2021-08-05": 0
+      "2021-08-06": 65,
+      "2021-08-05": 77
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 1487,
-    "timeDay": 1955,
-    "timeWeek": 1627,
-    "timeMonth": 1487,
-    "timeYear": 1487,
+    "time": 1495,
+    "timeDay": 1578,
+    "timeWeek": 1667,
+    "timeMonth": 1495,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2021-07-29": 26
     }
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1636,
-    "timeDay": 1994,
-    "timeWeek": 1785,
-    "timeMonth": 1636,
-    "timeYear": 1636,
+    "time": 1649,
+    "timeDay": 1784,
+    "timeWeek": 1854,
+    "timeMonth": 1649,
+    "timeYear": 1649,
     "dailyMinutesDown": {}
   }
 ]
