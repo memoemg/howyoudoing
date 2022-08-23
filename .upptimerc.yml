@@ -11,6 +11,8 @@ sites:
     url: https://revistas.ucr.ac.cr
   - name: UCRIndex
     url: https://ucrindex.ucr.ac.cr
+  - name: Revistas UTN
+    url: https://revistas.utn.ac.cr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
