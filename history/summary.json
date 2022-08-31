@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/kimuk.conare.ac.cr",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "87.50%",
+    "uptime": "87.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -130,7 +130,7 @@
     "icon": "https://favicons.githubusercontent.com/revistas.ucr.ac.cr",
     "slug": "portal-de-revistas",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.98%",
     "uptimeMonth": "98.87%",
@@ -219,9 +219,9 @@
     "url": "https://revistas.utn.ac.cr",
     "icon": "https://favicons.githubusercontent.com/revistas.utn.ac.cr",
     "slug": "revistas-utn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -230,6 +230,8 @@
     "timeWeek": 1228,
     "timeMonth": 1146,
     "timeYear": 1146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   }
 ]
