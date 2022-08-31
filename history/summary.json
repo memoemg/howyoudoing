@@ -219,19 +219,19 @@
     "url": "https://revistas.utn.ac.cr",
     "icon": "https://favicons.githubusercontent.com/revistas.utn.ac.cr",
     "slug": "revistas-utn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1146,
-    "timeDay": 580,
-    "timeWeek": 1228,
-    "timeMonth": 1146,
-    "timeYear": 1146,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 1120,
+    "timeDay": 733,
+    "timeWeek": 1185,
+    "timeMonth": 1120,
+    "timeYear": 1120,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-08-31": 33
     }
   }
 ]
