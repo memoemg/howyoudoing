@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "84.87%",
+    "uptime": "84.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "85.04%",
+    "uptimeMonth": "88.28%",
     "uptimeYear": "85.46%",
     "time": 1929,
-    "timeDay": 1680,
-    "timeWeek": 2392,
-    "timeMonth": 1898,
-    "timeYear": 1915,
+    "timeDay": 1818,
+    "timeWeek": 2347,
+    "timeMonth": 1909,
+    "timeYear": 1914,
     "dailyMinutesDown": {
       "2023-03-06": 30,
       "2023-03-01": 28,
@@ -91,8 +91,7 @@
       "2022-03-18": 31,
       "2022-03-17": 995,
       "2022-03-16": 804,
-      "2022-03-15": 468,
-      "2022-03-11": 16
+      "2022-03-15": 468
     }
   },
   {
@@ -106,10 +105,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.64%",
-    "time": 3187,
-    "timeDay": 3850,
-    "timeWeek": 2822,
-    "timeMonth": 3002,
+    "time": 3188,
+    "timeDay": 2852,
+    "timeWeek": 2918,
+    "timeMonth": 3004,
     "timeYear": 3204,
     "dailyMinutesDown": {
       "2023-01-18": 387,
@@ -135,8 +134,7 @@
       "2022-03-27": 107,
       "2022-03-22": 36,
       "2022-03-18": 19,
-      "2022-03-15": 47,
-      "2022-03-11": 16
+      "2022-03-15": 47
     }
   },
   {
@@ -151,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 1978,
-    "timeDay": 1340,
-    "timeWeek": 1332,
-    "timeMonth": 1324,
+    "timeDay": 1445,
+    "timeWeek": 1369,
+    "timeMonth": 1330,
     "timeYear": 2097,
     "dailyMinutesDown": {
       "2023-01-25": 23,
@@ -197,8 +195,7 @@
       "2022-03-27": 106,
       "2022-03-22": 34,
       "2022-03-18": 18,
-      "2022-03-15": 46,
-      "2022-03-11": 15
+      "2022-03-15": 46
     }
   },
   {
@@ -213,10 +210,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 2385,
-    "timeDay": 2032,
-    "timeWeek": 1981,
-    "timeMonth": 2253,
-    "timeYear": 2698,
+    "timeDay": 2321,
+    "timeWeek": 1896,
+    "timeMonth": 2214,
+    "timeYear": 2700,
     "dailyMinutesDown": {
       "2022-12-13": 17,
       "2022-09-07": 99,
@@ -241,9 +238,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.24%",
     "time": 801,
-    "timeDay": 578,
-    "timeWeek": 605,
-    "timeMonth": 896,
+    "timeDay": 876,
+    "timeWeek": 653,
+    "timeMonth": 900,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2023-02-12": 20,
