@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "85.04%",
+    "uptime": "85.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "85.73%",
-    "time": 1924,
-    "timeDay": 2637,
-    "timeWeek": 2043,
-    "timeMonth": 2041,
+    "uptimeYear": "85.90%",
+    "time": 1925,
+    "timeDay": 1807,
+    "timeWeek": 2041,
+    "timeMonth": 2024,
     "timeYear": 1922,
     "dailyMinutesDown": {
       "2023-03-06": 30,
@@ -87,8 +87,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1072,
-      "2022-03-22": 36,
-      "2022-03-18": 31
+      "2022-03-22": 36
     }
   },
   {
@@ -102,10 +101,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.66%",
-    "time": 3187,
-    "timeDay": 3572,
-    "timeWeek": 3012,
-    "timeMonth": 3059,
+    "time": 3186,
+    "timeDay": 2734,
+    "timeWeek": 2995,
+    "timeMonth": 3037,
     "timeYear": 3195,
     "dailyMinutesDown": {
       "2023-01-18": 387,
@@ -129,8 +128,7 @@
       "2022-04-22": 407,
       "2022-04-21": 105,
       "2022-03-27": 107,
-      "2022-03-22": 36,
-      "2022-03-18": 19
+      "2022-03-22": 36
     }
   },
   {
@@ -144,10 +142,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 1975,
-    "timeDay": 1656,
-    "timeWeek": 1353,
-    "timeMonth": 1295,
+    "time": 1974,
+    "timeDay": 1305,
+    "timeWeek": 1333,
+    "timeMonth": 1294,
     "timeYear": 2072,
     "dailyMinutesDown": {
       "2023-01-25": 23,
@@ -189,8 +187,7 @@
       "2022-04-21": 167,
       "2022-04-19": 236,
       "2022-03-27": 106,
-      "2022-03-22": 34,
-      "2022-03-18": 18
+      "2022-03-22": 34
     }
   },
   {
@@ -205,9 +202,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 2497,
-    "timeDay": 2160,
-    "timeWeek": 2151,
-    "timeMonth": 2182,
+    "timeDay": 1276,
+    "timeWeek": 2002,
+    "timeMonth": 2165,
     "timeYear": 2702,
     "dailyMinutesDown": {
       "2022-12-13": 17,
@@ -216,8 +213,7 @@
       "2022-04-22": 574,
       "2022-04-21": 98,
       "2022-03-27": 106,
-      "2022-03-22": 17,
-      "2022-03-18": 18
+      "2022-03-22": 17
     }
   },
   {
@@ -226,16 +222,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.utn.ac.cr.ico",
     "slug": "revistas-utn",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
-    "time": 798,
-    "timeDay": 1298,
-    "timeWeek": 711,
-    "timeMonth": 932,
-    "timeYear": 798,
+    "uptimeYear": "99.27%",
+    "time": 797,
+    "timeDay": 564,
+    "timeWeek": 667,
+    "timeMonth": 919,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-02-12": 20,
       "2023-02-05": 51,
