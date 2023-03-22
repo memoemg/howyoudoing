@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "85.14%",
+    "uptime": "85.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "85.90%",
-    "time": 1927,
-    "timeDay": 2368,
-    "timeWeek": 2065,
-    "timeMonth": 2033,
+    "time": 1928,
+    "timeDay": 1907,
+    "timeWeek": 2035,
+    "timeMonth": 2029,
     "timeYear": 1924,
     "dailyMinutesDown": {
       "2023-03-06": 30,
@@ -86,8 +86,7 @@
       "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
-      "2022-03-26": 1072,
-      "2022-03-22": 36
+      "2022-03-26": 1072
     }
   },
   {
@@ -101,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.66%",
-    "time": 3185,
-    "timeDay": 3980,
-    "timeWeek": 3096,
-    "timeMonth": 3040,
-    "timeYear": 3197,
+    "time": 3184,
+    "timeDay": 3299,
+    "timeWeek": 3162,
+    "timeMonth": 3031,
+    "timeYear": 3199,
     "dailyMinutesDown": {
       "2023-01-18": 387,
       "2022-12-28": 74,
@@ -127,8 +126,7 @@
       "2022-05-10": 34,
       "2022-04-22": 407,
       "2022-04-21": 105,
-      "2022-03-27": 107,
-      "2022-03-22": 36
+      "2022-03-27": 107
     }
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 1973,
-    "timeDay": 1622,
-    "timeWeek": 1363,
-    "timeMonth": 1317,
-    "timeYear": 2072,
+    "time": 1974,
+    "timeDay": 2169,
+    "timeWeek": 1493,
+    "timeMonth": 1343,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2023-01-25": 23,
       "2022-11-29": 29,
@@ -186,8 +184,7 @@
       "2022-04-22": 668,
       "2022-04-21": 167,
       "2022-04-19": 236,
-      "2022-03-27": 106,
-      "2022-03-22": 34
+      "2022-03-27": 106
     }
   },
   {
@@ -202,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 2500,
-    "timeDay": 2331,
-    "timeWeek": 1886,
-    "timeMonth": 2175,
+    "timeDay": 1709,
+    "timeWeek": 1964,
+    "timeMonth": 2177,
     "timeYear": 2708,
     "dailyMinutesDown": {
       "2022-12-13": 17,
@@ -212,8 +209,7 @@
       "2022-07-09": 131,
       "2022-04-22": 574,
       "2022-04-21": 98,
-      "2022-03-27": 106,
-      "2022-03-22": 17
+      "2022-03-27": 106
     }
   },
   {
@@ -227,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
-    "time": 811,
-    "timeDay": 1063,
-    "timeWeek": 1193,
-    "timeMonth": 1049,
-    "timeYear": 811,
+    "time": 810,
+    "timeDay": 576,
+    "timeWeek": 1204,
+    "timeMonth": 1044,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2023-02-12": 20,
       "2023-02-05": 51,
