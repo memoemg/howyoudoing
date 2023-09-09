@@ -6,12 +6,12 @@
     "slug": "kimuk",
     "status": "up",
     "uptime": "78.43%",
-    "uptimeDay": "49.97%",
-    "uptimeWeek": "38.84%",
-    "uptimeMonth": "30.59%",
+    "uptimeDay": "50.15%",
+    "uptimeWeek": "39.60%",
+    "uptimeMonth": "30.76%",
     "uptimeYear": "67.98%",
     "time": 1860,
-    "timeDay": 1614,
+    "timeDay": 1307,
     "timeWeek": 2522,
     "timeMonth": 1956,
     "timeYear": 1841,
@@ -258,8 +258,7 @@
       "2022-09-25": 33,
       "2022-09-20": 925,
       "2022-09-19": 16,
-      "2022-09-11": 31,
-      "2022-09-09": 42
+      "2022-09-11": 31
     }
   },
   {
