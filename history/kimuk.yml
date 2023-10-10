@@ -1,7 +1,7 @@
 url: https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields
-status: down
-code: 500
-responseTime: 1362
-lastUpdated: 2023-10-09T23:09:48.929Z
+status: up
+code: 200
+responseTime: 1710
+lastUpdated: 2023-10-10T01:03:20.710Z
 startTime: 2021-07-28T01:44:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
