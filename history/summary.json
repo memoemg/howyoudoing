@@ -16,7 +16,7 @@
     "timeMonth": 2056,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2023-11-27": 625,
+      "2023-11-27": 645,
       "2023-11-26": 920,
       "2023-11-25": 883,
       "2023-11-24": 830,
@@ -173,9 +173,9 @@
     "slug": "kerwa",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "59.83%",
-    "uptimeWeek": "86.61%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "62.22%",
+    "uptimeWeek": "86.76%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "98.22%",
     "time": 4115,
     "timeDay": 3408,
@@ -183,7 +183,7 @@
     "timeMonth": 3593,
     "timeYear": 4692,
     "dailyMinutesDown": {
-      "2023-11-27": 330,
+      "2023-11-27": 315,
       "2023-11-26": 371,
       "2023-11-25": 648,
       "2023-11-18": 265,
@@ -208,7 +208,7 @@
       "2023-09-24": 535,
       "2023-09-23": 263,
       "2023-09-21": 18,
-      "2023-09-18": 167
+      "2023-09-18": 225
     }
   },
   {
@@ -216,13 +216,13 @@
     "url": "https://revistas.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "98.45%",
-    "time": 3020,
+    "time": 3022,
     "timeDay": 3455,
     "timeWeek": 2166,
     "timeMonth": 2304,
