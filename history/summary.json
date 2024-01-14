@@ -8,7 +8,7 @@
     "uptime": "94.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.72%",
-    "uptimeMonth": "60.97%",
+    "uptimeMonth": "61.08%",
     "uptimeYear": "87.48%",
     "time": 1848,
     "timeDay": 1681,
@@ -162,14 +162,14 @@
     "url": "https://revistas.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "25.53%",
+    "uptimeDay": "28.40%",
     "uptimeWeek": "82.59%",
-    "uptimeMonth": "94.99%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "98.75%",
-    "time": 3514,
-    "timeDay": 13327,
+    "time": 3517,
+    "timeDay": 13540,
     "timeWeek": 10446,
     "timeMonth": 6019,
     "timeYear": 3948,
@@ -215,7 +215,7 @@
       "2023-05-09": 847,
       "2023-05-08": 920,
       "2023-05-07": 802,
-      "2023-05-06": 710
+      "2023-05-06": 685
     }
   },
   {
