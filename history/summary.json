@@ -162,13 +162,13 @@
     "url": "https://revistas.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "9.30%",
+    "uptimeDay": "11.25%",
     "uptimeWeek": "72.26%",
     "uptimeMonth": "92.61%",
-    "uptimeYear": "98.56%",
-    "time": 3557,
+    "uptimeYear": "98.57%",
+    "time": 3561,
     "timeDay": 12866,
     "timeWeek": 10984,
     "timeMonth": 6338,
@@ -216,7 +216,7 @@
       "2023-05-09": 847,
       "2023-05-08": 920,
       "2023-05-07": 802,
-      "2023-05-06": 617
+      "2023-05-06": 601
     }
   },
   {
