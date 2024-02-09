@@ -113,7 +113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "97.92%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "99.40%",
@@ -166,18 +166,19 @@
     "url": "https://revistas.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.58%",
-    "uptimeYear": "98.49%",
-    "time": 3641,
+    "uptimeYear": "98.53%",
+    "time": 3644,
     "timeDay": 2050,
     "timeWeek": 1609,
     "timeMonth": 8027,
     "timeYear": 4111,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2024-01-16": 56,
       "2024-01-15": 1034,
       "2024-01-14": 995,
@@ -221,7 +222,7 @@
       "2023-05-09": 847,
       "2023-05-08": 920,
       "2023-05-07": 802,
-      "2023-05-06": 536
+      "2023-05-06": 366
     }
   },
   {
