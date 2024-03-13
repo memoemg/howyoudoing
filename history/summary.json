@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.27%",
@@ -141,18 +141,19 @@
     "url": "https://revistas.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.52%",
-    "time": 3668,
+    "uptimeYear": "98.53%",
+    "time": 3671,
     "timeDay": 1356,
     "timeWeek": 1426,
     "timeMonth": 1712,
     "timeYear": 4119,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2024-02-26": 40,
       "2024-01-16": 56,
       "2024-01-15": 1034,
@@ -197,7 +198,7 @@
       "2023-05-09": 847,
       "2023-05-08": 920,
       "2023-05-07": 802,
-      "2023-05-06": 366
+      "2023-05-06": 292
     }
   },
   {
