@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "95.53%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "85.66%",
-    "uptimeMonth": "90.22%",
-    "uptimeYear": "87.96%",
+    "uptime": "95.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.74%",
+    "uptimeMonth": "90.23%",
+    "uptimeYear": "87.78%",
     "time": 1814,
     "timeDay": 1967,
     "timeWeek": 1740,
     "timeMonth": 1822,
     "timeYear": 1814,
     "dailyMinutesDown": {
-      "2024-04-05": 8,
       "2024-04-03": 112,
       "2024-04-02": 381,
       "2024-04-01": 944,
@@ -108,7 +107,8 @@
       "2023-10-28": 839,
       "2023-10-27": 839,
       "2023-10-26": 589,
-      "2023-10-25": 229
+      "2023-10-25": 609,
+      "2023-10-24": 546
     }
   },
   {
@@ -142,18 +142,19 @@
     "url": "https://revistas.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.52%",
-    "time": 3688,
+    "uptimeYear": "98.53%",
+    "time": 3692,
     "timeDay": 1540,
     "timeWeek": 2803,
     "timeMonth": 1848,
     "timeYear": 4123,
     "dailyMinutesDown": {
+      "2024-04-05": 0,
       "2024-02-26": 40,
       "2024-01-16": 56,
       "2024-01-15": 1034,
@@ -198,7 +199,7 @@
       "2023-05-09": 847,
       "2023-05-08": 920,
       "2023-05-07": 802,
-      "2023-05-06": 366
+      "2023-05-06": 292
     }
   },
   {
@@ -209,7 +210,7 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "33.58%",
+    "uptimeWeek": "34.30%",
     "uptimeMonth": "60.53%",
     "uptimeYear": "96.43%",
     "time": 3233,
