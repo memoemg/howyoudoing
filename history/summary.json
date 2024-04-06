@@ -144,17 +144,16 @@
     "slug": "portal-de-revistas",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "98.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.52%",
     "time": 3696,
     "timeDay": 4665,
     "timeWeek": 1860,
     "timeMonth": 1947,
     "timeYear": 4124,
     "dailyMinutesDown": {
-      "2024-04-05": 14,
       "2024-02-26": 40,
       "2024-01-16": 56,
       "2024-01-15": 1034,
@@ -199,7 +198,7 @@
       "2023-05-09": 847,
       "2023-05-08": 920,
       "2023-05-07": 802,
-      "2023-05-06": 292
+      "2023-05-06": 366
     }
   },
   {
@@ -210,7 +209,7 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.44%",
+    "uptimeWeek": "35.61%",
     "uptimeMonth": "60.53%",
     "uptimeYear": "96.43%",
     "time": 3232,
