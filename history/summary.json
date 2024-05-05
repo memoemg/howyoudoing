@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "95.46%",
-    "uptimeDay": "97.27%",
+    "uptime": "95.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.39%",
     "uptimeMonth": "88.86%",
     "uptimeYear": "87.42%",
     "time": 1828,
-    "timeDay": 2431,
+    "timeDay": 2350,
     "timeWeek": 1854,
-    "timeMonth": 1844,
+    "timeMonth": 1834,
     "timeYear": 1813,
     "dailyMinutesDown": {
       "2024-05-04": 39,
@@ -120,10 +120,10 @@
     "url": "https://kerwa.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "76.77%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "89.55%",
     "uptimeMonth": "86.33%",
     "uptimeYear": "98.28%",
     "time": 5438,
@@ -132,6 +132,7 @@
     "timeMonth": 11342,
     "timeYear": 5704,
     "dailyMinutesDown": {
+      "2024-05-05": 0,
       "2024-04-29": 981,
       "2024-04-28": 1440,
       "2024-04-27": 723,
@@ -144,7 +145,7 @@
       "2024-02-25": 495,
       "2024-02-24": 433,
       "2024-02-23": 549,
-      "2024-02-22": 500
+      "2024-02-22": 466
     }
   },
   {
@@ -162,7 +163,7 @@
     "timeDay": 27463,
     "timeWeek": 6574,
     "timeMonth": 3209,
-    "timeYear": 4057,
+    "timeYear": 3942,
     "dailyMinutesDown": {
       "2024-04-21": 39,
       "2024-04-19": 22,
