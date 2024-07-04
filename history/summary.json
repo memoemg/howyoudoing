@@ -130,17 +130,16 @@
     "slug": "kerwa",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "87.02%",
-    "uptimeMonth": "91.00%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "99.24%",
     "time": 7212,
-    "timeDay": 10161,
-    "timeWeek": 13689,
+    "timeDay": 7581,
+    "timeWeek": 13673,
     "timeMonth": 12462,
     "timeYear": 7574,
     "dailyMinutesDown": {
-      "2024-07-04": 8,
       "2024-07-03": 53,
       "2024-07-02": 20,
       "2024-07-01": 98,
@@ -151,7 +150,7 @@
       "2024-06-26": 785,
       "2024-06-25": 652,
       "2024-06-24": 644,
-      "2024-06-23": 194
+      "2024-06-23": 231
     }
   },
   {
@@ -270,9 +269,9 @@
     "url": "https://revistas.utn.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.utn.ac.cr.ico",
     "slug": "revistas-utn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.42%",
@@ -282,6 +281,7 @@
     "timeMonth": 514,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-06-27": 28,
       "2024-03-15": 25,
       "2024-01-20": 17,
