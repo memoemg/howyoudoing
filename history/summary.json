@@ -130,17 +130,17 @@
     "slug": "kerwa",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "77.00%",
-    "uptimeMonth": "92.43%",
+    "uptimeDay": "84.51%",
+    "uptimeWeek": "77.07%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "99.37%",
     "time": 7699,
     "timeDay": 14438,
     "timeWeek": 13154,
-    "timeMonth": 12846,
+    "timeMonth": 12893,
     "timeYear": 8148,
     "dailyMinutesDown": {
-      "2024-07-14": 232,
+      "2024-07-14": 225,
       "2024-07-13": 305,
       "2024-07-12": 509,
       "2024-07-11": 273,
@@ -155,7 +155,7 @@
       "2024-07-01": 98,
       "2024-06-30": 42,
       "2024-06-29": 41,
-      "2024-06-28": 498
+      "2024-06-28": 513
     }
   },
   {
@@ -226,7 +226,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ucrindex.ucr.ac.cr.ico",
     "slug": "ucr-index",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
