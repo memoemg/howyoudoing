@@ -128,13 +128,13 @@
     "url": "https://kerwa.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.07%",
+    "uptimeDay": "87.19%",
     "uptimeWeek": "76.72%",
-    "uptimeMonth": "92.43%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
-    "time": 7733,
+    "time": 7736,
     "timeDay": 10546,
     "timeWeek": 12774,
     "timeMonth": 12769,
@@ -156,7 +156,7 @@
       "2024-07-01": 98,
       "2024-06-30": 42,
       "2024-06-29": 41,
-      "2024-06-28": 399
+      "2024-06-28": 382
     }
   },
   {
