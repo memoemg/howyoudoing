@@ -13,7 +13,7 @@
     "time": 1842,
     "timeDay": 1993,
     "timeWeek": 2746,
-    "timeMonth": 2319,
+    "timeMonth": 2306,
     "timeYear": 1875,
     "dailyMinutesDown": {
       "2024-07-27": 16,
@@ -130,17 +130,17 @@
     "slug": "kerwa",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "80.74%",
-    "uptimeWeek": "70.25%",
-    "uptimeMonth": "92.33%",
+    "uptimeDay": "81.28%",
+    "uptimeWeek": "70.89%",
+    "uptimeMonth": "92.31%",
     "uptimeYear": "99.36%",
     "time": 8429,
     "timeDay": 11884,
-    "timeWeek": 14265,
-    "timeMonth": 13009,
+    "timeWeek": 14311,
+    "timeMonth": 13019,
     "timeYear": 8785,
     "dailyMinutesDown": {
-      "2024-07-30": 277,
+      "2024-07-30": 269,
       "2024-07-29": 424,
       "2024-07-28": 217,
       "2024-07-27": 235,
@@ -148,7 +148,7 @@
       "2024-07-25": 639,
       "2024-07-24": 508,
       "2024-07-23": 217,
-      "2024-07-15": 164
+      "2024-07-15": 180
     }
   },
   {
@@ -165,7 +165,7 @@
     "time": 3057,
     "timeDay": 1347,
     "timeWeek": 1288,
-    "timeMonth": 1353,
+    "timeMonth": 1347,
     "timeYear": 3180,
     "dailyMinutesDown": {
       "2024-06-19": 22,
@@ -227,7 +227,7 @@
     "time": 3908,
     "timeDay": 12545,
     "timeWeek": 13026,
-    "timeMonth": 11589,
+    "timeMonth": 11667,
     "timeYear": 4658,
     "dailyMinutesDown": {
       "2024-06-26": 44,
@@ -276,7 +276,7 @@
     "time": 597,
     "timeDay": 600,
     "timeWeek": 475,
-    "timeMonth": 510,
+    "timeMonth": 507,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2024-07-04": 46,
