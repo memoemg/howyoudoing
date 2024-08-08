@@ -6,9 +6,9 @@
     "slug": "kimuk",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "58.02%",
+    "uptimeDay": "59.26%",
     "uptimeWeek": "73.41%",
-    "uptimeMonth": "92.09%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 1848,
     "timeDay": 1740,
@@ -24,7 +24,7 @@
       "2024-08-03": 186,
       "2024-08-02": 422,
       "2024-08-01": 538,
-      "2024-07-31": 353
+      "2024-07-31": 338
     }
   },
   {
@@ -32,13 +32,13 @@
     "url": "https://kerwa.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "58.02%",
+    "uptimeDay": "59.26%",
     "uptimeWeek": "73.41%",
-    "uptimeMonth": "92.09%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
-    "time": 8776,
+    "time": 8779,
     "timeDay": 13781,
     "timeWeek": 13810,
     "timeMonth": 13733,
@@ -52,7 +52,7 @@
       "2024-08-03": 186,
       "2024-08-02": 422,
       "2024-08-01": 538,
-      "2024-07-31": 353
+      "2024-07-31": 338
     }
   },
   {
@@ -62,9 +62,9 @@
     "slug": "portal-de-revistas",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "58.03%",
-    "uptimeWeek": "73.41%",
-    "uptimeMonth": "92.09%",
+    "uptimeDay": "59.26%",
+    "uptimeWeek": "73.40%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 2969,
     "timeDay": 1559,
@@ -72,7 +72,7 @@
     "timeMonth": 1324,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2024-08-08": 387,
+      "2024-08-08": 388,
       "2024-08-07": 808,
       "2024-08-06": 432,
       "2024-08-05": 259,
@@ -80,7 +80,7 @@
       "2024-08-03": 186,
       "2024-08-02": 422,
       "2024-08-01": 538,
-      "2024-07-31": 353
+      "2024-07-31": 338
     }
   },
   {
@@ -90,9 +90,9 @@
     "slug": "ucr-index",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "58.04%",
-    "uptimeWeek": "73.41%",
-    "uptimeMonth": "92.09%",
+    "uptimeDay": "59.26%",
+    "uptimeWeek": "73.40%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 4051,
     "timeDay": 13258,
@@ -100,7 +100,7 @@
     "timeMonth": 13348,
     "timeYear": 4891,
     "dailyMinutesDown": {
-      "2024-08-08": 387,
+      "2024-08-08": 388,
       "2024-08-07": 808,
       "2024-08-06": 432,
       "2024-08-05": 259,
@@ -108,7 +108,7 @@
       "2024-08-03": 186,
       "2024-08-02": 422,
       "2024-08-01": 538,
-      "2024-07-31": 353
+      "2024-07-31": 338
     }
   },
   {
@@ -117,10 +117,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.utn.ac.cr.ico",
     "slug": "revistas-utn",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "58.04%",
-    "uptimeWeek": "73.41%",
-    "uptimeMonth": "92.09%",
+    "uptime": "99.67%",
+    "uptimeDay": "59.26%",
+    "uptimeWeek": "73.40%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 588,
     "timeDay": 516,
@@ -128,7 +128,7 @@
     "timeMonth": 489,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-08-08": 387,
+      "2024-08-08": 388,
       "2024-08-07": 808,
       "2024-08-06": 432,
       "2024-08-05": 259,
@@ -136,7 +136,7 @@
       "2024-08-03": 186,
       "2024-08-02": 422,
       "2024-08-01": 538,
-      "2024-07-31": 353
+      "2024-07-31": 338
     }
   }
 ]
