@@ -6,7 +6,7 @@
     "slug": "kimuk",
     "status": "up",
     "uptime": "95.86%",
-    "uptimeDay": "26.84%",
+    "uptimeDay": "29.84%",
     "uptimeWeek": "83.62%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "87.38%",
@@ -132,17 +132,17 @@
     "slug": "kerwa",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "85.29%",
-    "uptimeWeek": "77.78%",
+    "uptimeDay": "83.95%",
+    "uptimeWeek": "77.59%",
     "uptimeMonth": "92.83%",
     "uptimeYear": "99.40%",
-    "time": 8964,
-    "timeDay": 12564,
-    "timeWeek": 12753,
-    "timeMonth": 13705,
-    "timeYear": 9447,
+    "time": 8968,
+    "timeDay": 12206,
+    "timeWeek": 12699,
+    "timeMonth": 13646,
+    "timeYear": 9446,
     "dailyMinutesDown": {
-      "2024-08-13": 62,
+      "2024-08-13": 81,
       "2024-08-12": 205,
       "2024-08-11": 149,
       "2024-08-10": 193,
@@ -153,7 +153,7 @@
       "2024-08-05": 259,
       "2024-08-04": 84,
       "2024-08-03": 186,
-      "2024-08-02": 142
+      "2024-08-02": 125
     }
   },
   {
