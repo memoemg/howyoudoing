@@ -6,7 +6,7 @@
     "slug": "kimuk",
     "status": "up",
     "uptime": "95.86%",
-    "uptimeDay": "4.02%",
+    "uptimeDay": "21.61%",
     "uptimeWeek": "83.62%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "87.38%",
@@ -130,16 +130,16 @@
     "url": "https://kerwa.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "85.31%",
-    "uptimeWeek": "77.56%",
-    "uptimeMonth": "92.77%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "77.78%",
+    "uptimeMonth": "92.83%",
     "uptimeYear": "99.40%",
-    "time": 8955,
+    "time": 8958,
     "timeDay": 12941,
-    "timeWeek": 12728,
-    "timeMonth": 13657,
+    "timeWeek": 12804,
+    "timeMonth": 13692,
     "timeYear": 9449,
     "dailyMinutesDown": {
       "2024-08-13": 62,
@@ -153,7 +153,7 @@
       "2024-08-05": 259,
       "2024-08-04": 84,
       "2024-08-03": 186,
-      "2024-08-02": 170
+      "2024-08-02": 142
     }
   },
   {
