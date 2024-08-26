@@ -1,7 +1,7 @@
 url: https://kerwa.ucr.ac.cr
-status: up
-code: 200
-responseTime: 2385
-lastUpdated: 2024-08-25T23:46:59.097Z
+status: down
+code: 502
+responseTime: 18471
+lastUpdated: 2024-08-26T00:55:05.385Z
 startTime: 2021-07-28T01:51:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
