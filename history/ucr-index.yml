@@ -1,7 +1,7 @@
 url: https://ucrindex.ucr.ac.cr
-status: down
-code: 503
-responseTime: 301
-lastUpdated: 2024-08-30T16:14:39.314Z
+status: up
+code: 200
+responseTime: 16206
+lastUpdated: 2024-08-30T16:33:05.318Z
 startTime: 2021-07-28T01:51:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
