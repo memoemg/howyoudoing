@@ -6,9 +6,9 @@
     "slug": "kimuk",
     "status": "down",
     "uptime": "96.21%",
-    "uptimeDay": "90.30%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "95.88%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "95.86%",
     "uptimeYear": "88.21%",
     "time": 1862,
     "timeDay": 2024,
@@ -16,7 +16,7 @@
     "timeMonth": 1917,
     "timeYear": 1899,
     "dailyMinutesDown": {
-      "2024-09-04": 23,
+      "2024-09-04": 32,
       "2024-09-03": 116,
       "2024-08-26": 16,
       "2024-08-13": 375,
@@ -128,16 +128,16 @@
     "url": "https://kerwa.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "37.46%",
+    "uptimeDay": "38.05%",
     "uptimeWeek": "32.60%",
-    "uptimeMonth": "82.34%",
+    "uptimeMonth": "82.38%",
     "uptimeYear": "98.53%",
-    "time": 9471,
+    "time": 9474,
     "timeDay": 9704,
     "timeWeek": 9480,
-    "timeMonth": 11764,
+    "timeMonth": 11772,
     "timeYear": 9879,
     "dailyMinutesDown": {
       "2024-09-04": 144,
@@ -150,8 +150,7 @@
       "2024-08-28": 1031,
       "2024-08-27": 504,
       "2024-08-26": 176,
-      "2024-08-25": 52,
-      "2024-08-24": 16
+      "2024-08-25": 52
     }
   },
   {
