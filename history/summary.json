@@ -4,18 +4,19 @@
     "url": "https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields",
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "95.24%",
-    "uptimeYear": "88.76%",
+    "status": "down",
+    "uptime": "96.45%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "88.93%",
     "time": 1865,
     "timeDay": 1568,
     "timeWeek": 1868,
-    "timeMonth": 1881,
+    "timeMonth": 1889,
     "timeYear": 1875,
     "dailyMinutesDown": {
+      "2024-09-07": 1,
       "2024-09-06": 95,
       "2024-09-05": 80,
       "2024-09-04": 128,
@@ -116,8 +117,7 @@
       "2023-11-22": 717,
       "2023-11-21": 425,
       "2023-11-20": 910,
-      "2023-11-19": 858,
-      "2023-11-18": 529
+      "2023-11-19": 481
     }
   },
   {
@@ -125,18 +125,19 @@
     "url": "https://kerwa.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "51.86%",
-    "uptimeMonth": "82.31%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "52.41%",
+    "uptimeMonth": "82.42%",
     "uptimeYear": "98.53%",
-    "time": 9610,
-    "timeDay": 5793,
-    "timeWeek": 8445,
-    "timeMonth": 11400,
+    "time": 9614,
+    "timeDay": 6486,
+    "timeWeek": 8435,
+    "timeMonth": 11333,
     "timeYear": 9859,
     "dailyMinutesDown": {
+      "2024-09-07": 1,
       "2024-09-06": 60,
       "2024-09-05": 83,
       "2024-09-04": 391,
@@ -147,7 +148,7 @@
       "2024-08-30": 761,
       "2024-08-29": 737,
       "2024-08-28": 1031,
-      "2024-08-27": 370
+      "2024-08-27": 324
     }
   },
   {
