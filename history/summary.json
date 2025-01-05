@@ -4,18 +4,19 @@
     "url": "https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields",
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
-    "status": "up",
+    "status": "down",
     "uptime": "97.17%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "66.61%",
-    "uptimeMonth": "67.40%",
-    "uptimeYear": "90.24%",
+    "uptimeMonth": "68.03%",
+    "uptimeYear": "90.25%",
     "time": 1793,
     "timeDay": 1860,
     "timeWeek": 2253,
     "timeMonth": 1847,
-    "timeYear": 1827,
+    "timeYear": 1826,
     "dailyMinutesDown": {
+      "2025-01-05": 0,
       "2025-01-03": 385,
       "2025-01-02": 1229,
       "2025-01-01": 1421,
@@ -113,8 +114,7 @@
       "2024-03-04": 16,
       "2024-02-24": 669,
       "2024-02-23": 50,
-      "2024-02-09": 22,
-      "2024-02-03": 21
+      "2024-02-09": 22
     }
   },
   {
@@ -174,7 +174,7 @@
     "slug": "portal-de-revistas",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "96.64%",
+    "uptimeDay": "97.29%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.25%",
