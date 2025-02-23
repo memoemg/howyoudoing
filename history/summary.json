@@ -130,7 +130,7 @@
     "timeDay": 4063,
     "timeWeek": 2691,
     "timeMonth": 2024,
-    "timeYear": 10184,
+    "timeYear": 10188,
     "dailyMinutesDown": {
       "2025-02-23": 77,
       "2025-02-22": 26,
@@ -257,9 +257,9 @@
     "url": "https://revistas.utn.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.utn.ac.cr.ico",
     "slug": "revistas-utn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -269,6 +269,7 @@
     "timeMonth": 532,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2024-10-23": 54,
       "2024-07-04": 46,
       "2024-06-27": 28,
