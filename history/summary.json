@@ -4,18 +4,19 @@
     "url": "https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields",
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
-    "status": "up",
-    "uptime": "96.81%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "88.47%",
     "uptimeMonth": "89.86%",
-    "uptimeYear": "87.40%",
-    "time": 1763,
+    "uptimeYear": "87.63%",
+    "time": 1762,
     "timeDay": 1050,
     "timeWeek": 913,
     "timeMonth": 1181,
     "timeYear": 1736,
     "dailyMinutesDown": {
+      "2025-07-09": 0,
       "2025-07-04": 379,
       "2025-07-03": 494,
       "2025-07-02": 387,
@@ -101,8 +102,7 @@
       "2024-11-24": 1228,
       "2024-11-23": 923,
       "2024-11-22": 889,
-      "2024-11-21": 808,
-      "2024-11-20": 818
+      "2024-11-21": 431
     }
   },
   {
@@ -112,17 +112,16 @@
     "slug": "kerwa",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.85%",
     "time": 9401,
     "timeDay": 856,
     "timeWeek": 985,
     "timeMonth": 1096,
-    "timeYear": 9233,
+    "timeYear": 9237,
     "dailyMinutesDown": {
-      "2025-07-09": 10,
       "2025-06-15": 27,
       "2025-05-31": 26,
       "2025-05-14": 26,
@@ -170,7 +169,7 @@
       "2024-09-30": 41,
       "2024-09-29": 314,
       "2024-09-28": 406,
-      "2024-09-27": 172
+      "2024-09-27": 190
     }
   },
   {
@@ -182,7 +181,7 @@
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.11%",
+    "uptimeMonth": "90.54%",
     "uptimeYear": "97.65%",
     "time": 2089,
     "timeDay": 1437,
