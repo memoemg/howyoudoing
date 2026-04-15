@@ -4,16 +4,16 @@
     "url": "https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields",
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "38.31%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "38.29%",
     "uptimeWeek": "54.98%",
-    "uptimeMonth": "81.60%",
-    "uptimeYear": "93.59%",
-    "time": 2222,
+    "uptimeMonth": "81.68%",
+    "uptimeYear": "93.83%",
+    "time": 2223,
     "timeDay": 18963,
     "timeWeek": 10482,
-    "timeMonth": 7514,
+    "timeMonth": 7522,
     "timeYear": 2304,
     "dailyMinutesDown": {
       "2026-04-15": 453,
@@ -97,9 +97,7 @@
       "2025-07-27": 400,
       "2025-07-26": 795,
       "2025-07-24": 388,
-      "2025-07-23": 154,
-      "2025-07-22": 385,
-      "2025-07-21": 905
+      "2025-07-23": 154
     }
   },
   {
