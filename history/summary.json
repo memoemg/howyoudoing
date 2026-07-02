@@ -8,12 +8,12 @@
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.79%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "94.31%",
     "time": 3110,
     "timeDay": 18432,
     "timeWeek": 4052,
-    "timeMonth": 2142,
+    "timeMonth": 2188,
     "timeYear": 3445,
     "dailyMinutesDown": {
       "2025-12-15": 187,
@@ -81,14 +81,14 @@
     "slug": "kerwa",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.64%",
-    "uptimeYear": "98.56%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "89.11%",
+    "uptimeYear": "98.52%",
     "time": 2067,
     "timeDay": 0,
     "timeWeek": 3776,
-    "timeMonth": 1965,
+    "timeMonth": 1973,
     "timeYear": 2303,
     "dailyMinutesDown": {
       "2025-07-14": 20,
@@ -139,7 +139,7 @@
       "2026-06-21": 1419,
       "2026-06-20": 1440,
       "2026-06-19": 334,
-      "2026-07-02": 0
+      "2026-07-02": 234
     }
   },
   {
@@ -156,7 +156,7 @@
     "time": 1362,
     "timeDay": 3329,
     "timeWeek": 1706,
-    "timeMonth": 1398,
+    "timeMonth": 1400,
     "timeYear": 1447,
     "dailyMinutesDown": {
       "2025-08-07": 44,
@@ -195,11 +195,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.85%",
     "time": 3062,
     "timeDay": 2323,
     "timeWeek": 2731,
-    "timeMonth": 3412,
+    "timeMonth": 3441,
     "timeYear": 2668,
     "dailyMinutesDown": {
       "2025-08-11": 102,
