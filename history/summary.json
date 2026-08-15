@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "86.82%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "99.29%",
+    "uptime": "99.00%",
+    "uptimeDay": "84.83%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "94.97%",
-    "time": 3306,
-    "timeDay": 17167,
-    "timeWeek": 10962,
-    "timeMonth": 5658,
-    "timeYear": 3814,
+    "time": 3346,
+    "timeDay": 18574,
+    "timeWeek": 12065,
+    "timeMonth": 6173,
+    "timeYear": 3861,
     "dailyMinutesDown": {
       "2025-12-26": 745,
       "2025-12-25": 12,
@@ -68,7 +68,7 @@
       "2026-05-31": 240,
       "2026-07-27": 76,
       "2026-08-11": 46,
-      "2026-08-15": 190
+      "2026-08-15": 219
     }
   },
   {
@@ -79,7 +79,7 @@
     "status": "up",
     "uptime": "98.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "49.12%",
+    "uptimeWeek": "49.41%",
     "uptimeMonth": "23.47%",
     "uptimeYear": "90.49%",
     "time": 2245,
