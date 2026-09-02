@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "96.36%",
     "time": 3688,
     "timeDay": 1409,
-    "timeWeek": 8361,
+    "timeWeek": 5299,
     "timeMonth": 9587,
-    "timeYear": 4271,
+    "timeYear": 4277,
     "dailyMinutesDown": {
       "2026-01-24": 96,
       "2026-02-21": 21,
@@ -68,17 +68,17 @@
     "url": "https://kerwa.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/kerwa.ucr.ac.cr.ico",
     "slug": "kerwa",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.46%",
+    "uptimeMonth": "70.15%",
     "uptimeYear": "90.49%",
-    "time": 2257,
+    "time": 2260,
     "timeDay": 1421,
     "timeWeek": 1403,
     "timeMonth": 3636,
-    "timeYear": 2480,
+    "timeYear": 2482,
     "dailyMinutesDown": {
       "2025-09-05": 23,
       "2025-09-12": 17,
@@ -157,7 +157,8 @@
       "2026-07-20": 1440,
       "2026-07-19": 319,
       "2026-08-11": 1072,
-      "2026-08-12": 821
+      "2026-08-12": 821,
+      "2026-09-02": 0
     }
   },
   {
@@ -166,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -175,7 +176,7 @@
     "timeDay": 1429,
     "timeWeek": 1334,
     "timeMonth": 1277,
-    "timeYear": 1449,
+    "timeYear": 1450,
     "dailyMinutesDown": {
       "2025-09-21": 32,
       "2025-09-25": 23,
@@ -217,7 +218,7 @@
     "timeDay": 2137,
     "timeWeek": 2190,
     "timeMonth": 2419,
-    "timeYear": 2743,
+    "timeYear": 2745,
     "dailyMinutesDown": {
       "2025-12-26": 87,
       "2025-12-27": 59
@@ -238,7 +239,7 @@
     "timeDay": 546,
     "timeWeek": 519,
     "timeMonth": 520,
-    "timeYear": 575,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2026-02-26": 61
     }
