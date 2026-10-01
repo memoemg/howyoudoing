@@ -4,17 +4,17 @@
     "url": "https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields",
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
-    "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "67.67%",
-    "uptimeYear": "93.71%",
-    "time": 3871,
-    "timeDay": 26216,
-    "timeWeek": 12310,
-    "timeMonth": 5437,
-    "timeYear": 4569,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "84.77%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "67.17%",
+    "uptimeYear": "93.67%",
+    "time": 3905,
+    "timeDay": 24382,
+    "timeWeek": 13590,
+    "timeMonth": 6027,
+    "timeYear": 4612,
     "dailyMinutesDown": {
       "2026-03-01": 44,
       "2026-03-10": 128,
@@ -69,7 +69,7 @@
       "2026-09-07": 948,
       "2026-09-17": 284,
       "2026-09-30": 300,
-      "2026-10-01": 0
+      "2026-10-01": 219
     }
   },
   {
@@ -87,7 +87,7 @@
     "timeDay": 1689,
     "timeWeek": 923,
     "timeMonth": 1400,
-    "timeYear": 2047,
+    "timeYear": 2048,
     "dailyMinutesDown": {
       "2025-10-11": 16,
       "2025-11-14": 20,
@@ -183,7 +183,7 @@
     "timeDay": 1432,
     "timeWeek": 1168,
     "timeMonth": 1363,
-    "timeYear": 1413,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2025-10-11": 23,
       "2025-11-21": 44,
@@ -223,7 +223,7 @@
     "timeDay": 2094,
     "timeWeek": 2325,
     "timeMonth": 3551,
-    "timeYear": 2711,
+    "timeYear": 2712,
     "dailyMinutesDown": {
       "2025-12-26": 87,
       "2025-12-27": 59
@@ -244,7 +244,7 @@
     "timeDay": 621,
     "timeWeek": 569,
     "timeMonth": 645,
-    "timeYear": 584,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2026-02-26": 61
     }
