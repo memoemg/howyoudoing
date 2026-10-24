@@ -1,7 +1,7 @@
 url: https://revistas.ucr.ac.cr
-status: up
-code: 200
-responseTime: 1273
-lastUpdated: 2026-10-24T01:19:05.780Z
+status: down
+code: 502
+responseTime: 23878
+lastUpdated: 2026-10-24T22:02:42.269Z
 startTime: 2021-07-28T01:51:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
