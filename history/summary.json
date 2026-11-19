@@ -4,17 +4,17 @@
     "url": "https://kimuk.conare.ac.cr/Search/Results?lookfor=&type=AllFields",
     "icon": "https://icons.duckduckgo.com/ip3/kimuk.conare.ac.cr.ico",
     "slug": "kimuk",
-    "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "96.11%",
-    "uptimeYear": "93.24%",
-    "time": 4316,
-    "timeDay": 1094,
-    "timeWeek": 9347,
-    "timeMonth": 6435,
-    "timeYear": 5204,
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "74.40%",
+    "uptimeWeek": "87.58%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "93.17%",
+    "time": 4320,
+    "timeDay": 1884,
+    "timeWeek": 8680,
+    "timeMonth": 6328,
+    "timeYear": 5208,
     "dailyMinutesDown": {
       "2026-03-12": 369,
       "2026-03-11": 77,
@@ -72,7 +72,8 @@
       "2026-11-04": 819,
       "2026-11-13": 486,
       "2026-11-14": 398,
-      "2026-11-18": 0
+      "2026-11-19": 12,
+      "2026-11-18": 357
     }
   },
   {
@@ -83,16 +84,15 @@
     "status": "up",
     "uptime": "97.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.67%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.12%",
     "uptimeYear": "89.07%",
     "time": 2476,
     "timeDay": 1196,
-    "timeWeek": 6971,
+    "timeWeek": 838,
     "timeMonth": 4403,
-    "timeYear": 2240,
+    "timeYear": 2243,
     "dailyMinutesDown": {
-      "2025-11-19": 15,
       "2025-12-10": 68,
       "2025-12-18": 22,
       "2025-12-19": 24,
@@ -187,7 +187,7 @@
     "timeDay": 1458,
     "timeWeek": 1290,
     "timeMonth": 1974,
-    "timeYear": 1404,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2025-11-21": 44,
       "2025-12-03": 30,
@@ -228,7 +228,7 @@
     "timeDay": 2713,
     "timeWeek": 2661,
     "timeMonth": 4588,
-    "timeYear": 2881,
+    "timeYear": 2884,
     "dailyMinutesDown": {
       "2025-12-26": 87,
       "2025-12-27": 59
@@ -249,7 +249,7 @@
     "timeDay": 492,
     "timeWeek": 416,
     "timeMonth": 492,
-    "timeYear": 602,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2026-02-26": 61,
       "2026-10-16": 135
