@@ -13,8 +13,8 @@
     "time": 4397,
     "timeDay": 6503,
     "timeWeek": 2333,
-    "timeMonth": 6944,
-    "timeYear": 5290,
+    "timeMonth": 7097,
+    "timeYear": 5299,
     "dailyMinutesDown": {
       "2026-03-14": 53,
       "2026-03-15": 396,
@@ -90,8 +90,8 @@
     "time": 2434,
     "timeDay": 1233,
     "timeWeek": 1139,
-    "timeMonth": 4301,
-    "timeYear": 2236,
+    "timeMonth": 4401,
+    "timeYear": 2238,
     "dailyMinutesDown": {
       "2025-12-10": 68,
       "2025-12-18": 22,
@@ -177,16 +177,16 @@
     "url": "https://revistas.ucr.ac.cr",
     "icon": "https://icons.duckduckgo.com/ip3/revistas.ucr.ac.cr.ico",
     "slug": "portal-de-revistas",
-    "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.97%",
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "74.05%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "96.90%",
     "time": 1584,
-    "timeDay": 1350,
-    "timeWeek": 1012,
-    "timeMonth": 2971,
+    "timeDay": 1188,
+    "timeWeek": 1014,
+    "timeMonth": 2974,
     "timeYear": 1466,
     "dailyMinutesDown": {
       "2025-12-03": 30,
@@ -210,7 +210,8 @@
       "2026-01-20": 372,
       "2026-10-25": 1027,
       "2026-10-24": 117,
-      "2026-11-26": 0
+      "2026-11-27": 221,
+      "2026-11-26": 153
     }
   },
   {
@@ -227,8 +228,8 @@
     "time": 2825,
     "timeDay": 3635,
     "timeWeek": 3175,
-    "timeMonth": 4159,
-    "timeYear": 2901,
+    "timeMonth": 4155,
+    "timeYear": 2904,
     "dailyMinutesDown": {
       "2025-12-26": 87,
       "2025-12-27": 59
@@ -248,7 +249,7 @@
     "time": 650,
     "timeDay": 631,
     "timeWeek": 548,
-    "timeMonth": 500,
+    "timeMonth": 501,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-02-26": 61,
